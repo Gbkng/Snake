@@ -1,6 +1,7 @@
 # Snake
 A very disruptive game.
 Written in C++.
+Hope Bjarne will be proud.
 
 # How to play ?
 
@@ -11,7 +12,7 @@ Use the arrow keys to move the snake. Press escape to exit. Press space, because
 If you loose, take a deep breath, and try again. Never stop.
 # LINUX : Compile and run from source
 
-This procedure has been tested on Ubuntu 20.04.
+The following procedure has been tested on Ubuntu 20.04.
 ## The very lazy way
 Just run the INSTALL.sh script, follow the instructions, be kind with this script, and enjoy your life. 
 To do so, from the source directory, run
