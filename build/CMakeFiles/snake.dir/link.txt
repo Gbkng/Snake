@@ -1,1 +1,0 @@
-/usr/bin/mpicxx  -O3 -DNDEBUG   CMakeFiles/snake.dir/main.cpp.o CMakeFiles/snake.dir/utils.cpp.o  -o snake  -lsfml-graphics -lsfml-window -lsfml-system 
